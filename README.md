@@ -6,8 +6,9 @@
 - 支持选定上传的文件夹
 - 支持选定对应的COS
 
-// SECRETID 和 SECRETKEY请登录 https://console.cloud.tencent.com/cam/capi 进行查看和管理
-// 如果资源已经上传，链接并且替换，需要重新上传资源，那么把cdn链接改成本地即可
+## 注意
+- SECRETID 和 SECRETKEY请登录 https://console.cloud.tencent.com/cam/capi 进行查看和管理
+- 如果资源已经上传，链接并且替换，需要重新上传资源，那么把cdn链接改成本地即可
 
 ## config
 ```json
